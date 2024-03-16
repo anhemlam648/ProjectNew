@@ -1,40 +1,69 @@
-   /* CSS styles */
-   body {
+body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
     margin: 0;
     padding: 0;
+    background-color: #f4f4f4;
 }
-
 .container {
-    width: 80%;
-    margin: 20px auto;
-    background-color: #fff;
+    max-width: 800px;
+    margin: 50px auto;
     padding: 20px;
-    border-radius: 8px;
+    background-color: #fff;
+    border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-
-h1 {
+.header {
+    display: flex;
+    align-items: center; /* Căn giữa theo chiều dọc */
+    justify-content: space-between; /* Căn ra hai phía */
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #C8E6C9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border-bottom: 4px solid #689F38; /* Đường gạch dưới có độ dày 4px và màu xanh nhạt */
+}
+.header h1 {
     color: #333;
-    text-align: center;
+    margin-bottom: 10px;
+}
+.header p {
+    margin: 5px 0;
+}
+.header img {
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-top: 50px; /* Khoảng cách giữa hình ảnh và nội dung */
+}
+.header hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+    width: calc(100% - 140px); /* Độ dài của hr, trừ đi kích thước của hình ảnh và khoảng cách */
+}
+.header-info {
+    flex: 1; /* Phần thông tin sẽ co giãn để lấp đầy không gian còn lại */
+}
+.info-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; 
+    
+}
+.info {
+ width: calc(33% - 20px);
+padding: 20px;
+background-color: #fff; 
+border: none; /* xóa border */
+box-shadow: none; /* xóa box shadow */
+margin-bottom: -30px;
 }
 
-p {
-    color: #666;
-    line-height: 1.6;
+.info h2 {
+    color: #333;
+    margin-bottom: 10px;
 }
-
-.btn {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-}
-
-.btn:hover {
-    background-color: #0056b3;
+.info p {
+    margin: 5px 0;
 }
