@@ -1,6 +1,6 @@
 # CVcuatoi
 
-![Profile Picture](/public/DSC_7643.JPG)
+![Profile Picture](/public/4x6.jpg)
 
 ## Personal Information
 * Name: Vu Trung Nghia
