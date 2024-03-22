@@ -1,7 +1,7 @@
 # CVcuatoi
 
-![Profile Picture](/public/4x6.jpg)
 
+![Profile Picture](/public/4x6.jpg)
 ## Personal Information
 * Name: Vu Trung Nghia
 * Date of Birth: 15/12/2002
@@ -28,15 +28,23 @@ Feel free to explore more about my skills and experiences below.
 
 ## Education
 
+
 - [Hutech/University], Degree (Year)
 - [TDU/College], Diploma (Year)
+- [Name of Institution/University], Degree (Year)
+- [Name of High School/College], Diploma (Year)
+
 
 ---
 
 ## Work Experience
 
+
 - [Software], [Company/Organization], [Date]
 - [DevWeb], [Company/Organization], [Date]
+- [Position], [Company/Organization], [Date]
+- [Position], [Company/Organization], [Date]
+
 
 ---
 
@@ -52,9 +60,9 @@ Here are some of the projects I've worked on:
 
 Feel free to reach out to me via email: [your.email@example.com]
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/yourusername)
-
 ---
 
 ## License
