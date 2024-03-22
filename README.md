@@ -28,15 +28,15 @@ Feel free to explore more about my skills and experiences below.
 
 ## Education
 
-- [Name of Institution/University], Degree (Year)
-- [Name of High School/College], Diploma (Year)
+- [Hutech/University], Degree (Year)
+- [TDU/College], Diploma (Year)
 
 ---
 
 ## Work Experience
 
-- [Position], [Company/Organization], [Date]
-- [Position], [Company/Organization], [Date]
+- [Software], [Company/Organization], [Date]
+- [DevWeb], [Company/Organization], [Date]
 
 ---
 
