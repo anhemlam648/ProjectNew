@@ -1,6 +1,6 @@
 # CVcuatoi
 
-![Profile Picture](/public/anh-nen-doremon-002.jpg "Doremon Background" =200x)
+![Profile Picture](/public/DSC_7643.JPG)
 
 ## Personal Information
 * Name: Vu Trung Nghia
