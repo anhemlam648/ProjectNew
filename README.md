@@ -11,7 +11,7 @@
 
 ## About Me
 
-Welcome to my CV! I'm Vu Trung Nghia, a passionate individual with a keen interest in [replace with your interests/hobbies]. I believe in continuous learning and growth, and I'm excited to share my journey with you through this CV.
+Welcome to my CV! I'm Vu Trung Nghia, a passionate individual with a keen interest in Web Developer. I believe in continuous learning and growth, and I'm excited to share my journey with you through this CV.
 
 ---
 
@@ -58,7 +58,7 @@ Here are some of the projects I've worked on:
 
 ## Contact Me
 
-Feel free to reach out to me via email: [your.email@example.com]
+Feel free to reach out to me via email: [vunghia467@gmail.com]
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
