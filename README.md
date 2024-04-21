@@ -18,42 +18,36 @@ Welcome to my CV! I'm Vu Trung Nghia, a passionate individual with a keen intere
 ## Skills
 
 Here are some of the skills I possess:
-- Skill 1
-- Skill 2
-- Skill 3
+- Skill Java
+- Skill Javascript
+- Skill Php
 
 Feel free to explore more about my skills and experiences below.
 
 ---
 
 ## Education
-
-
-- [Hutech/University], Degree (Year)
-- [TDU/College], Diploma (Year)
-- [Name of Institution/University], Degree (Year)
-- [Name of High School/College], Diploma (Year)
-
-
+- [Hutech/University], Degree (Aug 2020 - May 2024) (Expected)
 ---
 
 ## Work Experience
-
-
-- [Software], [Company/Organization], [Date]
-- [DevWeb], [Company/Organization], [Date]
-- [Position], [Company/Organization], [Date]
-- [Position], [Company/Organization], [Date]
-
-
+- [Intern Software], [CÔNG TY TNHH GIÁO DỤC TIN HỌC SAO VIỆT], [Apir 2024]
+- [Intern DevWeb], [CÔNG TY TNHH GIÁO DỤC TIN HỌC SAO VIỆT], [[Apir 2024]
 ---
 
 ## Projects
 
 Here are some of the projects I've worked on:
-- [Project Name](link to project repository/demo)
-- [Project Name](link to project repository/demo)
-
+- [DoAnSpringBootSale_DeployRailway]
+- [DoAnSpringBootSale_Heroku]
+- [DoAnSpringBootChat_SaveLog]
+- [DoAnSpringBoot_Paypal-payment]
+- [DoAnPhp_Book]
+- [DoAnPhp_Sales]
+- [DoAnPhp_LibaryBook]
+- [BigSchool]
+- [Thuchanhjava]
+- [ProjectNew]
 ---
 
 ## Contact Me
@@ -61,10 +55,10 @@ Here are some of the projects I've worked on:
 Feel free to reach out to me via email: [vunghia467@gmail.com]
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/yourusername)
+[![LinkedIn]](https://www.facebook.com/vu.nghia.18062)
+[![GitHub](https://github.com/anhemlam648?tab=repositories)
 ---
 
 ## License
 
-This CV is open source and available under the [MIT License](LICENSE.md).
+This CV is open source and available under the [MIT License](README.md).
