@@ -55,7 +55,7 @@ Here are some of the projects I've worked on:
 Feel free to reach out to me via email: [vunghia467@gmail.com]
 
 
-[<img src="https://apix-drive.com/media/blogimg/auto/en/what-is-linkedin.png?lang=en" width="100">](https://www.facebook.com/vu.nghia.18062)
+[<img src="https://beecrowd.io/wp-content/uploads/2022/08/Beecrowd-Agosto-6-02-larger.png" width="100">](https://www.facebook.com/vu.nghia.18062)
 [<img src="https://wiki.matbao.net/wp-content/uploads/2019/09/github-la-gi.jpg" width="100">](https://github.com/anhemlam648)
 ---
 
