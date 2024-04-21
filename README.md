@@ -55,8 +55,8 @@ Here are some of the projects I've worked on:
 Feel free to reach out to me via email: [vunghia467@gmail.com]
 
 
-[![LinkedIn](https://example.com/linkedin-icon)](https://www.facebook.com/vu.nghia.18062)
-[![GitHub](https://example.com/github-icon)](https://github.com/anhemlam648?tab=repositories)
+[![LinkedIn](https://topdev.vn/blog/wp-content/uploads/2021/06/xay-dung-ho-so-cong-ty.jpg)](https://www.facebook.com/vu.nghia.18062)
+[![GitHub](https://wiki.matbao.net/wp-content/uploads/2019/09/github-la-gi-1-1200x700.jpg)](https://github.com/anhemlam648?tab=repositories)
 ---
 
 ## License
