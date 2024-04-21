@@ -55,8 +55,8 @@ Here are some of the projects I've worked on:
 Feel free to reach out to me via email: [vunghia467@gmail.com]
 
 
-[![LinkedIn](https://png.pngtree.com/element_our/md/20180626/md_5b321c9756fc6.jpg)](https://www.facebook.com/vu.nghia.18062)
-[![GitHub](https://wiki.matbao.net/wp-content/uploads/2019/09/github-la-gi.jpg)](https://github.com/anhemlam648?tab=repositories)
+[![LinkedIn](https://apix-drive.com/media/blogimg/auto/en/what-is-linkedin.png?lang=en width="20")](https://www.facebook.com/vu.nghia.18062)
+[![GitHub](https://wiki.matbao.net/wp-content/uploads/2019/09/github-la-gi.jpg width="20")](https://github.com/anhemlam648?tab=repositories)
 ---
 
 ## License
