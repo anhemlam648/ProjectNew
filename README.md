@@ -1,7 +1,7 @@
 # CVcuatoi
 
 
-![Profile Picture](/public/4x6.jpg)
+![Profile Picture](/public/4x6.jpg){width=100}
 ## Personal Information
 * Name: Vu Trung Nghia
 * Date of Birth: 15/12/2002
