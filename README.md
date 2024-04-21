@@ -55,8 +55,8 @@ Here are some of the projects I've worked on:
 Feel free to reach out to me via email: [vunghia467@gmail.com]
 
 
-[![LinkedIn]](https://www.facebook.com/vu.nghia.18062)
-[![GitHub](https://github.com/anhemlam648?tab=repositories)
+[![LinkedIn](https://example.com/linkedin-icon)](https://www.facebook.com/vu.nghia.18062)
+[![GitHub](https://example.com/github-icon)](https://github.com/anhemlam648?tab=repositories)
 ---
 
 ## License
