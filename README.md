@@ -41,6 +41,8 @@ Here are some of the projects I've worked on:
 - [DoAnSpringBootSale_DeployRailway]
 - [DoAnSpringBootSale_Heroku]
 - [DoAnSpringBootChat_SaveLog]
+- [AppNauAn_Android]
+- [ReactRESTSpring]
 - [DoAnSpringBoot_Paypal-payment]
 - [DoAnPhp_Book]
 - [DoAnPhp_Sales]
