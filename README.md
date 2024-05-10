@@ -32,31 +32,21 @@ Here are some of the skills I possess:
   </a>
 ### 👉 Frameworks/Platforms
 <p align="left"> 
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring&logoColor=white">
-  </a>
-</p>
-### 👉 Frameworks/Libraries
-<p align="left"> 
    &emsp;
     <a href="https://reactjs.org/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=white">
   </a>
 </p>
+
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
    &emsp;
     <a href="https://reactjs.org/" target="_blank"> 
@@ -67,6 +57,7 @@ Here are some of the skills I possess:
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white">
   </a>
 </p>
+
 ### 👉 Database Management Systems
 <p align="left"> 
   &emsp;
@@ -78,6 +69,7 @@ Here are some of the skills I possess:
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?logo=mongodb&logoColor=white">
   </a>
 </p>
+
 ### 👉 Tool
 <p align="left"> 
     &emsp;
@@ -99,6 +91,7 @@ Here are some of the skills I possess:
   &emsp;
   <span>ClassDiagram</span>
 </p>
+
 ### 👉 API Testing
 <p align="left"> 
   &emsp;
@@ -106,10 +99,11 @@ Here are some of the skills I possess:
     <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white">
   </a>
 </p>
+
 ### 👉 Soft Skills
 - Time Management
 - Communication
-Feel free to explore more about my skills and experiences below.
+
 
 ---
 
