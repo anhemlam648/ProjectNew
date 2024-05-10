@@ -30,6 +30,24 @@ Here are some of the skills I possess:
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
+### 👉 Frameworks/Platforms
+<p align="left"> 
+  &emsp;
+  <a href="https://www.php.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring&logoColor=white">
+  </a>
+</p>
+### 👉 Frameworks/Libraries
+<p align="left"> 
+   &emsp;
+    <a href="https://reactjs.org/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=white">
+  </a>
+</p>
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
@@ -44,13 +62,61 @@ Here are some of the skills I possess:
     <a href="https://reactjs.org/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=white">
   </a>
+    &emsp;
+  <a href="https://getbootstrap.com/" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white">
+  </a>
 </p>
+### 👉 Database Management Systems
+<p align="left"> 
+  &emsp;
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?logo=mongodb&logoColor=white">
+  </a>
+</p>
+### 👉 Tool
+<p align="left"> 
+    &emsp;
+    <a href="https://git-scm.com/" target="_blank"> 
+      <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://www.docker.com/" target="_blank"> 
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://azure.microsoft.com/" target="_blank"> 
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.uml.org/" target="_blank"> 
+    <img alt="UML" src="https://img.shields.io/badge/UML-%23000000.svg?logo=uml&logoColor=white">
+  </a>
+  &emsp;
+  <span>ClassDiagram</span>
+</p>
+### 👉 API Testing
+<p align="left"> 
+  &emsp;
+  <a href="https://www.getpostman.com/" target="_blank"> 
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white">
+  </a>
+</p>
+### 👉 Soft Skills
+- Time Management
+- Communication
 Feel free to explore more about my skills and experiences below.
 
 ---
 
 ## Education
 - [Hutech/University], Degree (Aug 2020 - May 2024) (Expected)
+- English : CEFR B1
+- Cretification Student 5 good.
 ---
 
 ## Work Experience
