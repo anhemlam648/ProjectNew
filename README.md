@@ -100,8 +100,6 @@ Welcome to my CV! I'm Vu Trung Nghia, a passionate individual with a keen intere
   <a href="https://www.uml.org/" target="_blank"> 
     <img alt="UML" src="https://img.shields.io/badge/UML-%23000000.svg?logo=uml&logoColor=white">
   </a>
-  &emsp;
-  <span>ClassDiagram</span>
 </p>
 
 ### 👉 API Testing
