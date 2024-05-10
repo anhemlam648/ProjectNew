@@ -16,7 +16,7 @@ Welcome to my CV! I'm Vu Trung Nghia, a passionate individual with a keen intere
 ---
 
 ## Skills
-
+### 👉 Programming languages
 Here are some of the skills I possess:
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
