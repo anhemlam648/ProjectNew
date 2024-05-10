@@ -32,6 +32,18 @@ Welcome to my CV! I'm Vu Trung Nghia, a passionate individual with a keen intere
   </a>
 ### 👉 Frameworks/Platforms
 <p align="left"> 
+  &emsp;
+  <a href="https://www.php.net/" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring&logoColor=white">
+  </a>
+</p>
+
+### 👉 Frameworks/Libraries
+<p align="left"> 
    &emsp;
     <a href="https://reactjs.org/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=white">
